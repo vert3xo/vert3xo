@@ -8,15 +8,15 @@ My name is Filip but I go by Vert3xo. I'm a student and developer at Guild Satur
 
 **I'm fluent in**
 
-<img src="icons/python.png" style="height:20px;"> , <img src="icons/go.png" style="height:20px">, <img src="icons/java.png" style="height:50px">, <img src="icons/js.png" style="height:30px">
+<img src="https://github.com/vert3xo/vert3xo/raw/master/icons/python.png" style="height:20px;"> , <img src="https://github.com/vert3xo/vert3xo/raw/master/icons/go.png" style="height:20px">, <img src="https://github.com/vert3xo/vert3xo/raw/master/icons/java.png" style="height:50px">, <img src="https://github.com/vert3xo/vert3xo/raw/master/icons/js.png" style="height:30px">
 
 **I'm familiar with**
 
-<img src="icons/c.png" style="height:30px">, <img src="icons/cpp.png" style="height:30px">
+<img src="https://github.com/vert3xo/vert3xo/raw/master/icons/c.png" style="height:30px">, <img src="https://github.com/vert3xo/vert3xo/raw/master/icons/cpp.png" style="height:30px">
 
 **I'm currently learning**
 
-<img src="icons/cs.png" style="height:30px"> 
+<img src="https://github.com/vert3xo/vert3xo/raw/master/icons/cs.png" style="height:30px"> 
 
 
 
