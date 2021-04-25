@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Filip but I go by Vert3xo. I'm a student and developer at Guild Saturdays. In my free time I like to play around with Linux and solve various cyber security challenges.
+My name is Filip but I go by Vert3xo. I'm a student and former developer at Guild Saturdays. In my free time I like to play around with Linux and solve various cyber security challenges.
 
 
 
